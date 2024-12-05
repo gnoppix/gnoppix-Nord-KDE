@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=gnoppix-nord
+Comment=Gnoppix Nord GtkTheme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=gnoppix-nord
+GtkTheme=gnoppix-nord
+IconTheme=gnoppix-nord
+MetacityTheme=gnoppix-nord
